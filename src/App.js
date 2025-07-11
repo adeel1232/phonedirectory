@@ -81,7 +81,7 @@ const App = () => {
         />
         <input
           type="text"
-          placeholder="+92 Phone Number"
+          placeholder="+92 3030303030"
           value={phone}
           onChange={(e) => {
             const value = e.target.value;
